@@ -5,7 +5,8 @@ DACA programmi andmeanalüütiku portfoolio
 # DACA Portfoolio -- [Rena Selliov]
 
 ## Minust
-[Kirjuta 2-3 lauset enda kohta. Miks sa liitusid DACA programmiga?]
+Mulle meeldib numbreid auditooriumile arusaadavasse keelde ja vormi panna.
+Selle kursuse raames loodan saada endale selleks täiendavad tööriistad.
 
 ## Eesmärk
 Õppida andmeanalüüsi -- SQL, Python, visualiseerimine -- ja ehitada professionaalne portfoolio.
