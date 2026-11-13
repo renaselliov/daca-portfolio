@@ -15,7 +15,15 @@ Kõige üllatavam oli, et online’s on tehtud sularahatehingud - 1821 (1211 eri
 Duplikaadid jaotuvad ühtlaselt kogu andmestiku peale - umbes kolmandik müügikanalite tehingutest, kolmandik iga kaupluse tehingutest, kolmandik iga makseviisiga tehingutest on duplikaadid, sama id_ga tehingut võib olla 2-6 tk. Seepärast ei saa siinkohal välja toodud tehinguid sisuliselt analüüsida enne, kui on välja selgitatud miks ja kuidas on andmetes nii palju duplikaate.
 
 Kõik kirjed:
+
 <img width="259" height="234" alt="image" src="https://github.com/user-attachments/assets/e3b6cf29-1931-4d3f-982f-e394819811df" />
 
 Eristuvad kirjed:
+
 <img width="603" height="467" alt="image" src="https://github.com/user-attachments/assets/8ade3bb4-9f98-4a72-b342-8ab8bcc6948c" />
+
+
+Grupitöö koond:
+https://docs.google.com/presentation/d/1KSvjW847A8DOongJPD6QgE00VcpKnAMLKP_oe9NeDEw/edit?slide=id.h830b7acea371e38_0_0#slide=id.h830b7acea371e38_0_0
+
+
